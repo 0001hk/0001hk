@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hola soy Marcos Sermeño👋
 
+Estudiante de Computacion E Informatica
+
+- He trabajado en proyectos web en el area de Front-End
+- Estoy estudiando actualmente para mejorar mis habilidades en el campo de desarrollo de software y metodologia agiles
+- En proceso de mejorar y aumentar el contenido de este repositorio
+ 
 <!--
 **0001hk/0001hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
